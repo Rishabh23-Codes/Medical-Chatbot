@@ -79,8 +79,9 @@ source .venv/bin/activate        # Mac/Linux
 ```
 
 #### 4️⃣ Install Dependencies
-```bash
 All dependencies are automatically installed from pyproject.toml:
+```bash
+
 uv sync
 ```
 
